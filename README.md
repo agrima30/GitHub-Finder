@@ -5,6 +5,7 @@ To install dependencies, you can run:
 ### `npm install`
 
 To start the project
+
 In the project directory, you can run:
 
 ### `npm start`
